@@ -1,0 +1,11 @@
+Function : Function is a block of code designed to perform a particular task.
+
+Before we use function we need to define it.
+A fuction defination (also called a function declaration or function statement) consists of function keyword followed by :
+The name of the function.
+A list of parameter to the function, enclosed in parenthesis and seperated by commas.
+The javascript statemnt that define the function, enclosed in curly brackets {.... }.
+
+
+Function Parameter : Function parameter are the names listed in the function's definition.
+Function argument : Are the real values passed to the function
