@@ -1,0 +1,15 @@
+Window :
+1) Window is the main container or we can say the global object and any operations related 
+to entire browser window can be a part of window object.
+2) All the members like object, methods or properties . If they are part of
+window object then we do not refer the window object.
+3) Window has methods, properties or object. ex setTimeout() or setInterval()
+are the methods, whereas Document is the object of the Window and it also has a 
+screen object with properties describing the physical display.
+
+document:
+1) whereas the DOM is the child of window object.
+2) Where in the DOM we need to refer the document, if we want to use the document 
+object, methods or properties.
+3) Document is just the object of the global object that is Window, which deals with 
+the document, the HTML elements themselves.
