@@ -1,0 +1,9 @@
+Reduce Method : flatten an array to convert 2D or 3D array into  a single dimensional array
+
+The reduce() method executes a reducer function (that you provide) on eaach elements of an array, resulting in single output value.
+
+The reducer function takes four arguments:
+1) Accumulator
+2) Current value
+3) Current index
+4) Source array 
