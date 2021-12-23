@@ -19,3 +19,19 @@
 // 2) By calling a function (We already seem and most common way of writing)
 // 3) Using Inline events (HTML onclick="" property and element.onclick)
 // 4) Using Event Listeners (addEventListener and IE's attachEvent)
+
+
+// Section 2: What is Event Object?
+// Event object is the parent object og=f the event object.
+// for example
+// MouseEvent, focusEvent, KeyboardEvent etc
+
+
+// Section 3: MouseEvent in JavaScript
+// Event that occur when the mouse interacts with the HTML document
+// belongs to the MouseEvent Object.
+
+
+// Section 4: KeyboardEvent in JavaScript
+// Event that occur when user presses a key on the keyboard,
+// belongs to the KeyboardEvent Object.
